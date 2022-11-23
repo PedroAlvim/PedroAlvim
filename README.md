@@ -8,9 +8,9 @@
 ##
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/96398956/178578230-04bf1654-4190-4b90-959a-0b40b3e13a79.png" alt="Java"/>
   <img src="https://user-images.githubusercontent.com/96398956/178578951-3825e95e-d5c9-4a49-a035-2c4fd6d4a05b.png" alt="Kotlin"/>
-    <img src="https://user-images.githubusercontent.com/96398956/178579474-34b45778-d9f6-409e-8cf6-9618ca2af05c.png" alt="Flutter"/>
+  <img src="https://user-images.githubusercontent.com/96398956/178578230-04bf1654-4190-4b90-959a-0b40b3e13a79.png" alt="Java"/>
+  <img src="https://user-images.githubusercontent.com/96398956/178579474-34b45778-d9f6-409e-8cf6-9618ca2af05c.png" alt="Flutter"/>
   <img src="https://user-images.githubusercontent.com/96398956/178580898-3d67f17e-0dd2-4efe-a853-8a043c554c70.png" alt="wordpress"/>
   <img src="https://user-images.githubusercontent.com/96398956/178580421-d6a54303-e66b-4f23-a13f-479298242c06.png" alt="html"/>
   <img src="https://user-images.githubusercontent.com/96398956/178580547-d6b45109-0dfa-4e77-9244-18ee8dcfc771.png" alt="css"/>
